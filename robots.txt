@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zabardast.github.io/sitemap.xml
