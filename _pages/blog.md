@@ -21,13 +21,13 @@ pagination:
 <!-- {% assign blog_name_size = site.blog_name | size %} -->
 <!-- {% assign blog_description_size = site.blog_description | size %} -->
 
-<!-- {% if blog_name_size > 0 or blog_description_size > 0 %} -->
+<!-- {% if blog_name_size > 0 or blog_description_size > 0 %}
 
-  <!-- <div class="header-bar">
+  <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
     <h2>{{ site.blog_description }}</h2>
-  </div> -->
-  <!-- {% endif %} -->
+  </div>
+{% endif %} -->
 
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
@@ -57,7 +57,7 @@ pagination:
   {% endif %}
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
-{% if featured_posts.size > 0 %}
+<!-- {% if featured_posts.size > 0 %}
 <br>
 
 <div class="container featured-posts">
@@ -99,11 +99,12 @@ pagination:
     </div>
     <hr>
 
-{% endif %}
+{% endif %} -->
 
   <ul class="post-list">
+  <!-- <p>hello man!!!</p> -->
 
-    {% if page.pagination.enabled %}
+    <!-- {% if page.pagination.enabled %}
       {% assign postlist = paginator.posts %}
     {% else %}
       {% assign postlist = site.posts %}
@@ -118,9 +119,10 @@ pagination:
     {% endif %}
     {% assign year = post.date | date: "%Y" %}
     {% assign tags = post.tags | join: "" %}
-    {% assign categories = post.categories | join: "" %}
+    {% assign categories = post.categories | join: "" %} -->
 
     <li>
+    <p>hello man!!!</p>
 
 {% if post.thumbnail %}
 
