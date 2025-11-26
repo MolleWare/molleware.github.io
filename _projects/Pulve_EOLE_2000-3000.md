@@ -4,7 +4,7 @@ title: Eole 2000/3000
 description: A Short description.
 img: assets/img/spion_example.png
 importance: 1
-category: work
+category: Work Experience
 related_publications: false
 ---
 

@@ -102,7 +102,6 @@ pagination:
 {% endif %} -->
 
   <ul class="post-list">
-  <!-- <p>hello man!!!</p> -->
 
     <!-- {% if page.pagination.enabled %}
       {% assign postlist = paginator.posts %}
@@ -122,7 +121,6 @@ pagination:
     {% assign categories = post.categories | join: "" %} -->
 
     <li>
-    <p>hello man!!!</p>
 
 {% if post.thumbnail %}
 

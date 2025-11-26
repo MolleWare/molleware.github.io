@@ -4,7 +4,7 @@ title: Mode Analyse
 description: An introspection tool that enabled technicians and developers to visualize the behavior of object classification algorithms.
 img: assets/img/ModeAnalyse_Composante.png
 importance: 1
-category: work
+category: Work Experience
 related_publications: false
 ---
 

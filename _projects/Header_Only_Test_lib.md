@@ -4,7 +4,7 @@ title: cpp_tools
 description: A header only Test library for smaller c++ projects.
 img: assets/img/test_lib.png
 importance: 1
-category: fun
+category: Side Projects
 related_publications: false
 ---
 

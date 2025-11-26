@@ -4,7 +4,7 @@ title: Spion
 description: A tool to reduce development and debugging time by providing real-time telemetry and enabling the writing of properties to variables in a program running on an embedded device.
 img: assets/img/spion_example.png
 importance: 1
-category: work
+category: Work Experience
 related_publications: false
 ---
 situation-task-action-result
