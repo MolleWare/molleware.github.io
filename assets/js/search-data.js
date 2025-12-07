@@ -37,15 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-qualcomm-brew-c-on-android",
+        },{id: "post-example-blog-post",
         
-          title: "Qualcomm BREW | C++ on android",
+          title: "Example blog post",
         
         description: "description",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/Qualcomm-BREW/";
+            window.location.href = "/blog/2025/example/";
           
         },
       },{id: "books-the-godfather",
