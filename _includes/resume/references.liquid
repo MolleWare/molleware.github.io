@@ -21,6 +21,11 @@
           <tr>
             <td></td>
             <td class="list-group-name">
+              <b>{{ content.company }}</b>
+              {% if content.position %}
+                — <i>{{ content.position }}</i>
+              {% endif %}
+              <br>
               <b>{{ content.reference }}</b>
             </td>
           </tr>
