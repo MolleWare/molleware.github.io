@@ -157,6 +157,8 @@
       "ESP32 (ESP-IDF)",
       "PlatformIO",
       "Microcontroller Firmware",
+      "ARM Cortex",
+      "GDB & Remote Debugging",
       "NAT Routing",
       "Wi-Fi (WPA3, AP+STA)",
       "RTOS Debugging"
@@ -182,10 +184,15 @@
     "icon": "fa-solid fa-code",
     "keywords": [
       "Algorithms & Data Structures",
-      "LeetCode / Problem Solving",
+      "Solid Principles",
       "Clean Code Design",
       "Systems Programming",
       "Troubleshooting",
+      "Non-Regression Tests",
+      "Field Testing",
+      "Python",
+      "Agile",
+      "Interdisciplinary Teamwork",
       "Automation Tools",
       "Git / GitHub Workflows"
     ]
@@ -211,7 +218,9 @@
       "Monitoring & Automation Concepts",
       "Troubleshooting at Scale",
       "Server Operations",
-      "Infrastructure Efficiency"
+      "Infrastructure Efficiency",
+      "Docker",
+      "Technical Documentation"
     ]
   }
 ],
