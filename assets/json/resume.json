@@ -165,20 +165,6 @@
     ]
   },
   {
-    "name": "Linux",
-    "level": "Advanced",
-    "icon": "fa-brands fa-linux",
-    "keywords": [
-      "System Administration",
-      "Bash & Shell Tools",
-      "Arch Linux & System Customization",
-      "i3 Window Manager",
-      "Embedded Linux Deployment",
-      "Vim & Terminal-Based Workflows",
-      "Ghidra (Reverse Engineering Basics)"
-    ]
-  },
-  {
     "name": "Software Engineering",
     "level": "Advanced",
     "icon": "fa-solid fa-code",
@@ -195,6 +181,20 @@
       "Interdisciplinary Teamwork",
       "Automation Tools",
       "Git / GitHub Workflows"
+    ]
+  },
+  {
+    "name": "Linux",
+    "level": "Advanced",
+    "icon": "fa-brands fa-linux",
+    "keywords": [
+      "System Administration",
+      "Bash & Shell Tools",
+      "Arch Linux & System Customization",
+      "i3 Window Manager",
+      "Embedded Linux Deployment",
+      "Vim & Terminal-Based Workflows",
+      "Ghidra (Reverse Engineering Basics)"
     ]
   },
   {
@@ -239,15 +239,16 @@
   ],
   "interests": [
   {
-    "name": "Robotics & Autonomous Systems",
-    "icon": "fa-solid fa-robot",
+    "name": "Hands-On Engineering & Craftsmanship",
+    "icon": "fa-solid fa-hammer",
     "keywords": [
-      "Drone Technology",
-      "Autonomous Navigation",
-      "Sensor Fusion",
-      "Control Systems",
-      "ROS2 Ecosystem",
-      "Real-Time Robotics"
+      "Car & Motorcycle Mechanics",
+      "Woodworking",
+      "Furniture Building",
+      "Knife Making",
+      "3D Printing (Design & Fabrication)",
+      "Tool Crafting",
+      "Workshop Projects"
     ]
   },
   {
@@ -263,6 +264,18 @@
     ]
   },
   {
+    "name": "Robotics & Autonomous Systems",
+    "icon": "fa-solid fa-robot",
+    "keywords": [
+      "Drone Technology",
+      "Autonomous Navigation",
+      "Sensor Fusion",
+      "Control Systems",
+      "ROS2 Ecosystem",
+      "Real-Time Robotics"
+    ]
+  },
+  {
     "name": "Algorithms & Problem Solving",
     "icon": "fa-solid fa-brain",
     "keywords": [
@@ -272,19 +285,6 @@
       "Systems Design Patterns",
       "High-Constraint Problem Solving",
       "LeetCode-Style Challenges"
-    ]
-  },
-  {
-    "name": "Hands-On Engineering & Craftsmanship",
-    "icon": "fa-solid fa-hammer",
-    "keywords": [
-      "Car & Motorcycle Mechanics",
-      "Woodworking",
-      "Furniture Building",
-      "Knife Making",
-      "3D Printing (Design & Fabrication)",
-      "Tool Crafting",
-      "Workshop Projects"
     ]
   },
   {
