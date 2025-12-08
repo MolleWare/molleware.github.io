@@ -13,5 +13,5 @@ In this project page I will talk about all the different things I workde on.
 - tank balancing.
 - norac integration.
 - us sensor
-- ... maybe take the time to remember a few more ?
-- a lot of these where small bug fixes and adding tests.
+
+... maybe take the time to remember a few more ? A lot of these where small bug fixes and adding tests+documentation.
