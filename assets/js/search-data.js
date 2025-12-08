@@ -41,23 +41,7 @@ ninja.data = [{
             window.location.href = "/blog/2025/example/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+      },{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -72,11 +56,21 @@ ninja.data = [{
           description: "A Short description.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Pulve_EOLE_2000-3000/";
+            },},{id: "projects-json-editor",
+          title: 'JSON Editor',
+          description: "An automated configuration tool that eliminated the need for on-site developer assistance during SPV3 machine setup and deployment.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/json_editor/";
             },},{id: "projects-mode-analyse",
           title: 'Mode Analyse',
           description: "An introspection tool that enabled technicians and developers to visualize the behavior of object classification algorithms.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mode_analyse/";
+            },},{id: "projects-norac",
+          title: 'Norac',
+          description: "Integration of a radar-based ground-following system for the Eole 2000/3000 spraying tool, replacing ultrasonic sensors to improve crop navigation and spraying accuracy.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/norac_integration/";
             },},{id: "projects-spion",
           title: 'Spion',
           description: "A tool to reduce development and debugging time by providing real-time telemetry and enabling the writing of properties to variables in a program running on an embedded device.",
