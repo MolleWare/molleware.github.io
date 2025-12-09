@@ -155,13 +155,10 @@
       "C / C++",
       "FreeRTOS",
       "ESP32 (ESP-IDF)",
-      "PlatformIO",
-      "Microcontroller Firmware",
       "ARM Cortex",
       "GDB & Remote Debugging",
       "NAT Routing",
-      "Wi-Fi (WPA3, AP+STA)",
-      "RTOS Debugging"
+      "Wi-Fi (WPA3, AP+STA)"
     ]
   },
   {
@@ -171,15 +168,11 @@
     "keywords": [
       "Algorithms & Data Structures",
       "Solid Principles",
-      "Clean Code Design",
-      "Systems Programming",
       "Troubleshooting",
       "Non-Regression Tests",
       "Field Testing",
-      "Python",
       "Agile",
       "Interdisciplinary Teamwork",
-      "Automation Tools",
       "Git / GitHub Workflows"
     ]
   },
@@ -189,9 +182,6 @@
     "icon": "fa-brands fa-linux",
     "keywords": [
       "System Administration",
-      "Bash & Shell Tools",
-      "Arch Linux & System Customization",
-      "i3 Window Manager",
       "Embedded Linux Deployment",
       "Vim & Terminal-Based Workflows",
       "Ghidra (Reverse Engineering Basics)"
@@ -252,15 +242,14 @@
     ]
   },
   {
-    "name": "Embedded & Low-Level Systems",
+    "name": "Embedded Systems & Linux",
     "icon": "fa-solid fa-microchip",
     "keywords": [
       "Real-Time Systems",
       "Microcontrollers",
-      "Wireless Communication",
-      "Optimized Firmware",
-      "Linux Kernel Internals",
-      "Systems Programming"
+      "Systems Programming",
+      "Arch Linux & System Customization",
+      "i3 Window Manager"
     ]
   },
   {

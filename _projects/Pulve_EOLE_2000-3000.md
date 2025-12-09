@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Eole 2000/3000
-description: A Short description.
+description: The Eole 2000/3000 project is the process of industrialising a refactored codebase while integrating prototyped changes to the mechanical, hydrolics and electronics of the tool.
 img: assets/img/PXL_Eole2000_3000.jpg
 importance: 1
-category: Work Experience
+category: unatributed
 related_publications: false
 ---
 

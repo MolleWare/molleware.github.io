@@ -48,6 +48,7 @@ One of the key technical challenges and achievements was designing the system fo
 **Solution**: Developed an intelligent protocol with type registration and identifier-based caching to minimize redundant communication and optimize bandwidth usage.
 
 ## Results:
+![spion default interface](/assets/img/spion.png)
 Reduced debugging time by ~40% for teams using Spion, eliminating the need for repeated flashing.
 Supported C++ embedded projects with ethernet capabilities.
 
