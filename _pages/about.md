@@ -25,10 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Embedded Systems Software Engineer with a strong foundation in C++ and experience across low-level development, IoT, and robotics-adjacent technologies. My work is driven by a passion for building reliable, efficient systems that solve real problems and positively impact people’s lives. I enjoy diving deep into complex technical challenges—whether that involves debugging kernel-level behavior, architecting embedded applications, or optimizing performance for constrained hardware.
+I am an Embedded Systems Software Engineer with a strong background in C++ development for embedded Linux systems managing complex machinery. My focus is on designing and implementing reliable, tested and documented, efficient systems that address real-world challenges and deliver tangible benefits to users.
 
-Over the years, I’ve worked with technologies ranging from ESP32/FreeRTOS and Linux kernel modules to Android app development. I thrive in environments where software, hardware, and real-world systems intersect. I also enjoy collaborating with cross-disciplinary teams, testing products hands-on, and turning ideas into practical, high-quality solutions.
+Over the years, I have gained experience working with a variety of technologies from web design and Android app development to RTOS on ESP32 boards. I thrive in environments that require collaboration with engineers from different disciplines. Additionally, I appreciate engaging in hands-on testing of products and transforming ideas into practical and reliable solutions.
 
 What motivates me most is the opportunity to contribute to meaningful projects—especially in autonomous systems, drones, IoT, medical systems, and other mission-critical domains where reliability matters. I aim to write software that enables safety, freedom, and better day-to-day experiences for users.
 
-Curiosity, growth, and craftsmanship drive my work. I’m always learning—through new tools, new frameworks, or simply exploring the internals of how systems function—and I bring that mindset to every project I join.
+Curiosity, growth, and craftsmanship drive my work. I’m always learning through new tools, new frameworks, or simply exploring the internals of how systems function and I bring that mindset to every project I join.
