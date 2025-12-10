@@ -18,30 +18,19 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-example-blog-post",
-        
-          title: "Example blog post",
-        
-        description: "description",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/example/";
-          
-        },
-      },{id: "projects-project-1",
+        },{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -53,7 +42,7 @@ ninja.data = [{
               window.location.href = "/projects/Header_Only_Test_lib/";
             },},{id: "projects-eole-2000-3000",
           title: 'Eole 2000/3000',
-          description: "A Short description.",
+          description: "The Eole 2000/3000 project is the process of industrialising a refactored codebase while integrating prototyped changes to the mechanical, hydrolics and electronics of the tool.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Pulve_EOLE_2000-3000/";
             },},{id: "projects-json-editor",
