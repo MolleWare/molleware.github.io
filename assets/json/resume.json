@@ -153,12 +153,10 @@
     "icon": "fa-solid fa-microchip",
     "keywords": [
       "C / C++",
-      "FreeRTOS",
-      "ESP32 (ESP-IDF)",
       "ARM Cortex",
       "GDB & Remote Debugging",
-      "NAT Routing",
-      "Wi-Fi (WPA3, AP+STA)"
+      "Wireshark",
+      "Socket Programming"
     ]
   },
   {
@@ -166,14 +164,13 @@
     "level": "Advanced",
     "icon": "fa-solid fa-code",
     "keywords": [
-      "Algorithms & Data Structures",
       "Solid Principles",
-      "Troubleshooting",
       "Non-Regression Tests",
       "Field Testing",
       "Agile",
       "Interdisciplinary Teamwork",
-      "Git / GitHub Workflows"
+      "Git / GitHub Workflows",
+      "Technical Documentation"
     ]
   },
   {
@@ -182,35 +179,8 @@
     "icon": "fa-brands fa-linux",
     "keywords": [
       "System Administration",
-      "Embedded Linux Deployment",
-      "Vim & Terminal-Based Workflows",
-      "Ghidra (Reverse Engineering Basics)"
-    ]
-  },
-  {
-    "name": "Mobile & Web Development",
-    "level": "Intermediate",
-    "icon": "fa-solid fa-mobile-screen",
-    "keywords": [
-      "Android (Kotlin)",
-      "Web Apps",
-      "REST APIs",
-      "UI/UX Basics",
-      "Portfolio Websites (Jekyll)",
-      "Godot Engine (GDScript)"
-    ]
-  },
-  {
-    "name": "Cloud & Infrastructure",
-    "level": "Beginner",
-    "icon": "fa-solid fa-cloud",
-    "keywords": [
-      "Monitoring & Automation Concepts",
-      "Troubleshooting at Scale",
-      "Server Operations",
-      "Infrastructure Efficiency",
-      "Docker",
-      "Technical Documentation"
+      "Ghidra (Reverse Engineering Basics)",
+      "Docker"
     ]
   }
 ],
@@ -242,37 +212,40 @@
     ]
   },
   {
-    "name": "Embedded Systems & Linux",
+    "name": "Embedded Systems",
     "icon": "fa-solid fa-microchip",
     "keywords": [
-      "Real-Time Systems",
-      "Microcontrollers",
-      "Systems Programming",
-      "Arch Linux & System Customization",
-      "i3 Window Manager"
-    ]
-  },
-  {
-    "name": "Robotics & Autonomous Systems",
-    "icon": "fa-solid fa-robot",
-    "keywords": [
-      "Drone Technology",
+      "FreeRTOS",
+      "ESP32 (ESP-IDF)",
+      "NAT Routing",
+      "Wi-Fi (WPA3, AP+STA)",
+      "Reverse Engineering",
       "Autonomous Navigation",
-      "Sensor Fusion",
-      "Control Systems",
       "Real-Time Robotics"
     ]
   },
   {
-    "name": "Algorithms & Problem Solving",
+    "name": "Mobile & Web Development",
+    "level": "Intermediate",
+    "icon": "fa-solid fa-mobile-screen",
+    "keywords": [
+      "Android (Kotlin)",
+      "Web Apps",
+      "REST APIs",
+      "UI/UX Basics",
+      "Portfolio Websites (Jekyll)",
+      "Godot Engine (GDScript)"
+    ]
+  },
+  {
+    "name": "Linux",
     "icon": "fa-solid fa-brain",
     "keywords": [
-      "Optimization",
-      "Data Structures",
-      "Competitive Programming",
-      "Systems Design Patterns",
-      "High-Constraint Problem Solving",
-      "LeetCode-Style Challenges"
+      "Arch Linux & System Customization",
+      "i3 Window Manager",
+      "Server Operations",
+      "Embedded Linux Deployment",
+      "Vim & Terminal-Based Workflows"
     ]
   },
   {
@@ -287,16 +260,6 @@
     ]
   },
   {
-    "name": "Culinary Interests",
-    "icon": "fa-solid fa-utensils",
-    "keywords": [
-      "Home Cooking",
-      "Nutrition & Healthy Eating",
-      "Meal Experimentation",
-      "Cultural Cuisines"
-    ]
-  },
-  {
     "name": "Music",
     "icon": "fa-solid fa-music",
     "keywords": [
@@ -306,17 +269,6 @@
       "Electronic Music",
       "Improvisation",
       "Music Theory"
-    ]
-  },
-  {
-    "name": "Personal Growth",
-    "icon": "fa-solid fa-book",
-    "keywords": [
-      "Self-Development",
-      "Skill Expansion",
-      "Deep Work",
-      "Technical Exploration",
-      "Reverse Engineering"
     ]
   }
 ],
