@@ -40,11 +40,11 @@ ninja.data = [{
           description: "A header only Test library for smaller c++ projects.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Header_Only_Test_lib/";
-            },},{id: "projects-eole-2000-3000",
-          title: 'Eole 2000/3000',
-          description: "The Eole 2000/3000 project is the process of industrialising a refactored codebase while integrating prototyped changes to the mechanical, hydrolics and electronics of the tool.",
+            },},{id: "projects-eole-3000-vxl",
+          title: 'Eole 3000/VXL',
+          description: "The Eole 3000/VXL project is the process of industrialising a refactored codebase while integrating prototyped changes to the mechanical, hydrolics and electronics of the tool.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Pulve_EOLE_2000-3000/";
+              window.location.href = "/projects/Pulve_EOLE_3000_vxl/";
             },},{id: "projects-json-editor",
           title: 'JSON Editor',
           description: "An automated configuration tool that eliminated the need for on-site developer assistance during SPV3 machine setup and deployment.",
