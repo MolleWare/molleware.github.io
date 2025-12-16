@@ -2,7 +2,7 @@
 layout: page
 title: JSON Editor
 description: An automated configuration tool that eliminated the need for on-site developer assistance during SPV3 machine setup and deployment.
-img:
+img: assets/img/Json_editor.png
 importance: 2
 category: Work Experience
 related_publications: false
@@ -44,7 +44,7 @@ This project showcased the importance of making engineering tools accessible to 
 **Creative Fix**: Rather than spend additional time debugging the layout engine, I pragmatically adjusted the keyboard row definitions to counter-shift in the opposite direction, achieving the correct visual alignment.
 
 - **Challenge**: Embedding vs. Standalone Architecture.\
-**Solution**: Evaluated embedding the editor within the main application but determined the cost was too high—managing automatic configuration saves alongside the editor's modifications would create complexity and risk. The standalone approach was cleaner and more maintainable.
+**Solution**: Evaluated embedding the editor within the main application but determined the cost was too high. Managing automatic configuration saves alongside the editor's modifications would create complexity and risk. The standalone approach was cleaner and more maintainable.
 
 ## Results:
 - Successfully automated the machine configuration process, eliminating the need for on-site developer assistance
@@ -54,7 +54,7 @@ This project showcased the importance of making engineering tools accessible to 
 - Demonstrated the value of practical, user-focused engineering solutions
 
 ## Project Timeline:
-- **Development Duration**: 2 weeks
+- **Development Duration**: 6 weeks
 - **Status**: Successfully deployed and actively used in production
 
 ## Key Learnings:
