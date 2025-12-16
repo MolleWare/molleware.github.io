@@ -26,7 +26,7 @@ C++
 
 #### Technical Insights & Growth:
 
-- **Definition of Done**: Good enough" is a significant aspect of effective problem-solving. I explored multiple solutions to this problem, progressively moving closer to an optimal solution. In a professional environment, this iterative approach is often viewed as inefficient. Therefore, to foster growth, it is important to work within various constraints. In my case, developing a tool without time limitations allowed me to become more comfortable with variadic and recursive functions.
+- **Definition of Done**: "Good enough" is a significant aspect of effective problem-solving. I explored multiple solutions to this problem, progressively moving closer to an optimal solution. In a professional environment, this iterative approach is often viewed as inefficient. Therefore, to foster growth, it is important to work within various constraints. In my case, developing a tool without time limitations allowed me to become more comfortable with variadic and recursive functions.
 
 ## Results:
 - I improved my comfortability using variadic and recursive functions.
