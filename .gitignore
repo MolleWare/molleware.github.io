@@ -11,3 +11,6 @@ assets/libs/
 node_modules/
 vendor
 .idea
+package-lock.json
+package.json
+portfolio.code-workspace
