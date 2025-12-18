@@ -14,7 +14,8 @@ This is an Android game developed using the Godot game engine, designed to help 
 
 The concept is straightforward and step-based, making it easy to understand. Additionally, the settings allow for increasing the size of the number to memorize, enabling players to adjust the difficulty and ensure the game remains challenging yet accessible for all users.
 
-{% include video.liquid path="https://vimeo.com/1147535080?fl=ip&fe=ec" class="img-fluid rounded z-depth-1" %}
+{% include video.liquid path="https://player.vimeo.com/video/1147535080?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" class="img-fluid rounded z-depth-1" %}
+
 
 ## Context & Motivation:
 
