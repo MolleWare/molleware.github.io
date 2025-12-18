@@ -43,7 +43,6 @@
         "Designed a user-friendly JSON configuration editor for embedded devices"
       ]
     }
-
   ],
   // "volunteer": [
   //   {
@@ -147,43 +146,33 @@
   //   }
   // ],
   "skills": [
-  {
-    "name": "Embedded Systems",
-    "level": "Advanced",
-    "icon": "fa-solid fa-microchip",
-    "keywords": [
-      "C / C++",
-      "ARM Cortex",
-      "GDB & Remote Debugging",
-      "Wireshark",
-      "Socket Programming"
-    ]
-  },
-  {
-    "name": "Software Engineering",
-    "level": "Advanced",
-    "icon": "fa-solid fa-code",
-    "keywords": [
-      "Solid Principles",
-      "Non-Regression Tests",
-      "Field Testing",
-      "Agile",
-      "Interdisciplinary Teamwork",
-      "Git / GitHub Workflows",
-      "Technical Documentation"
-    ]
-  },
-  {
-    "name": "Linux",
-    "level": "Advanced",
-    "icon": "fa-brands fa-linux",
-    "keywords": [
-      "System Administration",
-      "Ghidra (Reverse Engineering Basics)",
-      "Docker"
-    ]
-  }
-],
+    {
+      "name": "Embedded Systems",
+      "level": "Advanced",
+      "icon": "fa-solid fa-microchip",
+      "keywords": ["C / C++", "ARM Cortex", "GDB & Remote Debugging", "Wireshark", "Socket Programming"]
+    },
+    {
+      "name": "Software Engineering",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Solid Principles",
+        "Non-Regression Tests",
+        "Field Testing",
+        "Agile",
+        "Interdisciplinary Teamwork",
+        "Git / GitHub Workflows",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Advanced",
+      "icon": "fa-brands fa-linux",
+      "keywords": ["System Administration", "Ghidra (Reverse Engineering Basics)", "Docker"]
+    }
+  ],
 
   "languages": [
     {
@@ -198,80 +187,60 @@
     }
   ],
   "interests": [
-  {
-    "name": "Hands-On Engineering & Craftsmanship",
-    "icon": "fa-solid fa-hammer",
-    "keywords": [
-      "Car & Motorcycle Mechanics",
-      "Woodworking",
-      "Furniture Building",
-      "Knife Making",
-      "3D Printing (Design & Fabrication)",
-      "Tool Crafting",
-      "Workshop Projects"
-    ]
-  },
-  {
-    "name": "Embedded Systems",
-    "icon": "fa-solid fa-microchip",
-    "keywords": [
-      "FreeRTOS",
-      "ESP32 (ESP-IDF)",
-      "NAT Routing",
-      "Wi-Fi (WPA3, AP+STA)",
-      "Reverse Engineering",
-      "Autonomous Navigation",
-      "Real-Time Robotics"
-    ]
-  },
-  {
-    "name": "Mobile & Web Development",
-    "level": "Intermediate",
-    "icon": "fa-solid fa-mobile-screen",
-    "keywords": [
-      "Android (Kotlin)",
-      "Web Apps",
-      "REST APIs",
-      "UI/UX Basics",
-      "Portfolio Websites (Jekyll)",
-      "Godot Engine (GDScript)"
-    ]
-  },
-  {
-    "name": "Linux",
-    "icon": "fa-solid fa-brain",
-    "keywords": [
-      "Arch Linux & System Customization",
-      "i3 Window Manager",
-      "Server Operations",
-      "Embedded Linux Deployment",
-      "Vim & Terminal-Based Workflows"
-    ]
-  },
-  {
-    "name": "Outdoors & Adventure",
-    "icon": "fa-solid fa-mountain",
-    "keywords": [
-      "Hiking",
-      "Climbing",
-      "Nature Exploration",
-      "Endurance Activities",
-      "Trail Discovery"
-    ]
-  },
-  {
-    "name": "Music",
-    "icon": "fa-solid fa-music",
-    "keywords": [
-      "Piano",
-      "Clarinet",
-      "Guitar",
-      "Electronic Music",
-      "Improvisation",
-      "Music Theory"
-    ]
-  }
-],
+    {
+      "name": "Hands-On Engineering & Craftsmanship",
+      "icon": "fa-solid fa-hammer",
+      "keywords": [
+        "Car & Motorcycle Mechanics",
+        "Woodworking",
+        "Furniture Building",
+        "Knife Making",
+        "3D Printing (Design & Fabrication)",
+        "Tool Crafting",
+        "Workshop Projects"
+      ]
+    },
+    {
+      "name": "Embedded Systems",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        "FreeRTOS",
+        "ESP32 (ESP-IDF)",
+        "NAT Routing",
+        "Wi-Fi (WPA3, AP+STA)",
+        "Reverse Engineering",
+        "Autonomous Navigation",
+        "Real-Time Robotics"
+      ]
+    },
+    {
+      "name": "Mobile & Web Development",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-mobile-screen",
+      "keywords": ["Android (Kotlin)", "Web Apps", "REST APIs", "UI/UX Basics", "Portfolio Websites (Jekyll)", "Godot Engine (GDScript)"]
+    },
+    {
+      "name": "Linux",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "Arch Linux & System Customization",
+        "i3 Window Manager",
+        "Server Operations",
+        "Embedded Linux Deployment",
+        "Vim & Terminal-Based Workflows"
+      ]
+    },
+    {
+      "name": "Outdoors & Adventure",
+      "icon": "fa-solid fa-mountain",
+      "keywords": ["Hiking", "Climbing", "Nature Exploration", "Endurance Activities", "Trail Discovery"]
+    },
+    {
+      "name": "Music",
+      "icon": "fa-solid fa-music",
+      "keywords": ["Piano", "Clarinet", "Guitar", "Electronic Music", "Improvisation", "Music Theory"]
+    }
+  ],
   "references": [
     {
       "name": "Fabien Bourgeais",
