@@ -35,6 +35,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-brane",
+          title: 'Brane',
+          description: "Android memory and focus training app.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Brane_game/";
             },},{id: "projects-cpp-tools",
           title: 'cpp_tools',
           description: "A header only Test library for smaller c++ projects.",
