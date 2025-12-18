@@ -57,7 +57,6 @@ This was my first team project, where I collaborated closely with **Dr. Ludovic 
 **Solution**: Invested in comprehensive system documentation and direct collaboration with the principal architect to ensure proper implementation and deep comprehension.
 
 ## Results:
-- Successfully bridged the gap between laboratory R&D and field service teams
 - Enabled technicians to confidently calibrate machines in atypical harvesting conditions
 - Provided developers with powerful introspection capabilities for debugging and optimization
 - Validated architecture design through real-world field testing

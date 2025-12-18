@@ -57,8 +57,3 @@ Supported C++ embedded projects with ethernet capabilities.
 - **Integration Documentation**: Comprehensive integration documentation was completed, enabling seamless adoption and customization by other development teams
 - **Outcome**: The project functioned reliably and became a key tool for accelerating development cycles within the embedded systems team
 
-## Visuals:
-No images ... internal project
-
-## Links:
-no links .. internal project
