@@ -16,7 +16,6 @@ The concept is straightforward and step-based, making it easy to understand. Add
 
 {% include video.liquid path="https://player.vimeo.com/video/1147535080?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" class="img-fluid rounded z-depth-1" %}
 
-
 ## Context & Motivation:
 
 About 10 years ago I remember playing a game called spiral pulse. It was simple and captivated all of my focus when playing it. It felt like I had mental fatigue after playing it so I thought just like running for cardio I could play that game and improve my focus.\
