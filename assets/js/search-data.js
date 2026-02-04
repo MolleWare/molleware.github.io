@@ -40,6 +40,11 @@ ninja.data = [{
           description: "Android memory and focus training app.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Brane_game/";
+            },},{id: "projects-squareup-item-variation-auto-namer",
+          title: 'Squareup Item Variation Auto-Namer',
+          description: "Browser plugin to automate naming of item variations in Squareup.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/EastonsBooks/";
             },},{id: "projects-cpp-tools",
           title: 'cpp_tools',
           description: "A header only Test library for smaller c++ projects.",
