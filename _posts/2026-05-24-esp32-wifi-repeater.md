@@ -55,7 +55,7 @@ b647796fb104ae312be32c5e1c3f413b142fc0cb
 - Ping from laptop to phone using `espAP`. ✅
 - Ping from `espSTA` to laptop. ✅
 - Ping from laptop to `espSTA`. ✅
-- Ping from `espSTA1` to `espSTA2`. ❌
+- Ping from `espSTA1` to `espSTA2`. ✅
 
 #### AP TEST 1:✅
 Can I connect my phone to `espAP`?
