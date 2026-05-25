@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Making a Wifi6 wifi repeater with an ESP32-C6
+title: 1. Making a Wifi6 wifi repeater with an ESP32-C6
 date: 2026-05-24 15:25:00
 description: Initial steps towards creating a Wifi6 repeater using the ESP32-C6 module.
-tags: code automation web-development
+tags: code embedded networking c
 categories: default
 ---
 Early validation log for my ESP32-C6 Wi-Fi repeater.
@@ -30,7 +30,7 @@ can the `espSTA` ping other devices on the same network?
 
 ![test esp_sta 1.1](/assets/img/posts/wifi_repeater/sta_tst_1.1.png){: width="100%"}
 
-- The sta test 1.2 is the `espSTA` connected to local ap returning a sucessful ping to 10.10.1.5(PC).
+- The sta test 1.2 is the `espSTA` connected to local ap returning a successful ping to 10.10.1.5(PC).
 
 ![test esp_sta 1.2](/assets/img/posts/wifi_repeater/sta_tst_1.2.png){: width="100%"}
 
@@ -68,7 +68,7 @@ Can I connect my phone to `espAP`?
 
 ![test esp_ap 1.1](/assets/img/posts/wifi_repeater/ap_tst_1.1.png){: width="100%"}
 
-Here we can observe the `espAP` logging a connection from my phone `192.168.4.2` and proceding to receiving icmp request from it.
+Here we can observe the `espAP` logging a connection from my phone `192.168.4.2` and proceeding to receiving icmp request from it.
 I will proceed to trying to repeating the task with my laptop to see if I can catch the icmp request's with wireshark.
 
 ![test esp_ap 1.2](/assets/img/posts/wifi_repeater/ap_tst_1.2.png){: width="100%"}
@@ -76,22 +76,22 @@ I will proceed to trying to repeating the task with my laptop to see if I can ca
 The ICMP(port unreachable) and ICMP type 03 leads me to think it is just residual apps on my laptop trying to reach out on the AP that is not yet connected to the internet so it cannot proceed to forwarding the packets there for replying with port unreachable.
 
 #### AP TEST 2:✅
-I will now proceed with pings from and other device on the isolated `espAP` network. (Ping from phone(192.168.4.3) to laptop(192.168.4.2) using `espAP`.)
+I will now proceed with pings from another device on the isolated `espAP` network. (Ping from phone(192.168.4.3) to laptop(192.168.4.2) using `espAP`.)
 
 ![test esp_ap 2.1](/assets/img/posts/wifi_repeater/ap_tst_2.1.png){: width="100%"}
 
 ```
-For tests like this is use the app Vernet from Fdroid.
+For tests like this I use the app Vernet from Fdroid.
 ```
 
 #### AP TEST 3:✅
-The Next challenge is to integrate a `espSTA` to se if they behave like other devices.
+The Next challenge is to integrate a `espSTA` to see if they behave like other devices.
 Here we can see the log of the `espSTA` as it pings my phone(192.168.4.2) from 192.168.4.3.
 
 ![test esp_ap 3.1](/assets/img/posts/wifi_repeater/ap_tst_3.1.png){: width="100%"}
 
-Now lets try with the PC to see if we can actually catch the ICMP request emited by the esp32.
-Here we can see the captured requests on wireshark form the `espSTA` over the `espAP` to the PC.
+Now let's try with the PC to see if we can actually catch the ICMP request emitted by the esp32.
+Here we can see the captured requests on wireshark from the `espSTA` over the `espAP` to the PC.
 
 ![test esp_ap 3.2](/assets/img/posts/wifi_repeater/ap_tst_3.2.png){: width="100%"}
 
