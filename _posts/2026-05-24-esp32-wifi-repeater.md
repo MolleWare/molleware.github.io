@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 1. Making a Wifi6 wifi repeater with an ESP32-C6
+title: 1. Making a Wifi6 repeater with an ESP32-C6
 date: 2026-05-24 15:25:00
 description: Initial steps towards creating a Wifi6 repeater using the ESP32-C6 module.
-tags: code embedded networking c
+tags: embedded esp32 c
 categories: default
 ---
 Early validation log for my ESP32-C6 Wi-Fi repeater.
